@@ -120,7 +120,10 @@ function bubble_init(samples) {
 
     };
     let traceData = [trace];
-    Plotly.newPlot("bubble", traceData)
+    let layout = {
+        title: "Bubble Chart for each sample"
+    }
+    Plotly.newPlot("bubble", traceData, layout)
 
 
 
