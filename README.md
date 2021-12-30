@@ -13,6 +13,7 @@ In this assignment, I built an interactive dashboard to explore the [Belly Butto
   - a bubble chart that illustrates the OTUs and their relative sample values
   - a Gauge chart that shows the washing frequency.
 
+![image](https://user-images.githubusercontent.com/84043141/147788200-5474f8bc-5855-4c7a-8cb6-dc97ef1bdf72.png)
+
 This dashboard is hosted here:
 https://aselsche.github.io/plotly-challenge.
-
