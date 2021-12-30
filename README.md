@@ -3,6 +3,9 @@ In this assignment, I built an interactive dashboard to explore the [Belly Butto
 
 **The site has the following elements:**
 
+![image](https://user-images.githubusercontent.com/84043141/147788157-6e0b0c69-c39e-4300-90df-6761f73cc02d.png)
+
+
 - A test subject drop-down menu that is dynamically populated based upon the sample data;
 - A panel and three graphs are dynamically created based upon the subject selected:
   - a demographic panel that lists the subject's information
